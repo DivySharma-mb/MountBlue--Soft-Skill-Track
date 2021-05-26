@@ -54,19 +54,19 @@ This constraint is optional. Most of the time, you will be sending the static re
 
 The constraints of the REST architectural style affect the following architectural properties:
 
-**a)**Performance in component interactions, which can be the dominant factor in user-perceived performance and network efficiency.
+**a)** Performance in component interactions, which can be the dominant factor in user-perceived performance and network efficiency.
 
-**b)**Scalability allowing the support of large numbers of components and interactions among components.
+**b)** Scalability allowing the support of large numbers of components and interactions among components.
 
-**c)**Simplicity of a uniform interface.
+**c)** Simplicity of a uniform interface.
 
-**d)**Modifiability of components to meet changing needs (even while the application is running).
+**d)** Modifiability of components to meet changing needs (even while the application is running).
 
-**e)**Visibility of communication between components by service agents.
+**e)** Visibility of communication between components by service agents.
 
-**f)**Portability of components by moving program code with the data.
+**f)** Portability of components by moving program code with the data.
 
-**g)**Reliability in the resistance to failure at the system level in the presence of failures within components, connectors, or data.
+**g)** Reliability in the resistance to failure at the system level in the presence of failures within components, connectors, or data.
 
 #### Citations:
 
